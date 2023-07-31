@@ -422,10 +422,7 @@ img {
   color: #434455;
 }
 
-.email-portfolio:hover {
-  color: #404bbf;
-}
-
+.email-portfolio:hover,
 .email-portfolio:focus {
   color: #404bbf;
 }
@@ -437,10 +434,7 @@ img {
   color: #434455;
 }
 
-.phone-portfolio:hover {
-  color: #404bbf;
-}
-
+.phone-portfolio:hover,
 .phone-portfolio:focus {
   color: #404bbf;
 }
