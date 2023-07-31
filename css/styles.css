@@ -21,7 +21,7 @@ p {
 header {
   background: var(--white, #fff);
   flex-shrink: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -411,31 +411,31 @@ img {
   margin-bottom: 8px;
 }
 
-.email-portfolio {
+.email {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.email-portfolio:root {
+.email:root {
   color: #434455;
 }
 
-.email-portfolio:hover,
-.email-portfolio:focus {
+.email:hover,
+.email:focus {
   color: #404bbf;
 }
 
-.phone-portfolio {
+.phone {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.phone-portfolio:hover,
-.phone-portfolio:focus {
+.phone:hover,
+.phone:focus {
   color: #404bbf;
 }
 
