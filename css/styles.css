@@ -395,6 +395,10 @@ img {
   padding: 0;
 }
 
+.list-page .list {
+  padding: 0;
+}
+
 .items-page {
   width: calc((100%-48px) / 3);
 }
